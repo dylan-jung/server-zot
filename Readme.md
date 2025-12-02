@@ -7,6 +7,9 @@ sudo apt-get install apache2-utils -y
 htpasswd -Bbn myuser mypassword > htpasswd
 
 # 환경변수 설정
-REGION_ENDPOINT=
-ACCESS_KEY=
-SECRET_KEY=
+- REGION_ENDPOINT=
+- ACCESS_KEY=
+- SECRET_KEY=
+
+# zot-config.json 설정
+regionendpoint 변경
