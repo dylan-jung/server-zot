@@ -7,7 +7,6 @@ sudo apt-get install apache2-utils -y
 htpasswd -Bbn myuser mypassword > htpasswd
 
 # 환경변수 설정
-- REGION_ENDPOINT=
 - ACCESS_KEY=
 - SECRET_KEY=
 
